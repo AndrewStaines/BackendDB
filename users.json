@@ -1,0 +1,79 @@
+[
+    {
+        "name":"Andrew William Staines M",
+        "Username":"Andrew",
+        "mail":"xyz@gmail.com",
+        "Password":"Andrew",
+        "PhoneNumber":1234567890,
+        "Address":"xyz area, zzz street",
+        "Investors":null,
+        "Followers":450,
+        "Following":15,
+        "Type":"Civil"
+    },
+
+    {
+        "name":"Sanjay S",
+        "Username":"Sanjay",
+        "mail":"xyz@gmail.com",
+        "Password":"Sanjay",
+        "PhoneNumber":1234567890,
+        "Address":"xyz area, zzz street",
+        "Investors":null,
+        "Followers":300,
+        "Following":30,
+        "Type":"Web Designing"
+    },
+
+    {
+        "name":"Naveen Bharathi P",
+        "Username":"Naveen",
+        "mail":"xyz@gmail.com",
+        "Password":"Naveen",
+        "PhoneNumber":1234567890,
+        "Address":"xyz area, zzz street",
+        "Investors":null,
+        "Followers":250,
+        "Following":25,
+        "Type":"App Developer"
+    },
+
+    {
+        "name":"Ananya K S",
+        "Username":"Ananya",
+        "mail":"xyz@gmail.com",
+        "Password":"Ananya",
+        "PhoneNumber":1234567890,
+        "Address":"xyz area, zzz street",
+        "Investors":null,
+        "Followers":350,
+        "Following":20,
+        "Type":"Embedded Systems"
+    },
+
+    {
+        "name":"Nijithra G K",
+        "Username":"Nijithra",
+        "mail":"xyz@gmail.com",
+        "Password":"Nijithra",
+        "PhoneNumber":1234567890,
+        "Address":"xyz area, zzz street",
+        "Investors":null,
+        "Followers":500,
+        "Following":60,
+        "Type":"Mechanical"
+    },
+
+    {
+        "name":"Rithika C",
+        "Username":"Rithika",
+        "mail":"xyz@gmail.com",
+        "Password":"Rithika",
+        "PhoneNumber":1234567890,
+        "Address":"xyz area, zzz street",
+        "Investors":null,
+        "Followers":350,
+        "Following":20,
+        "Type":"Electronics"
+    }
+]

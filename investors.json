@@ -1,0 +1,79 @@
+[
+    {
+        "name":"XXXX",
+        "Username":"XXXX",
+        "mail":"xyz@gmail.com",
+        "Password":"XXXX",
+        "PhoneNumber":1234567890,
+        "Address":"xyz area, zzz street",
+        "Startups":null,
+        "Followers":450,
+        "Following":15,
+        "Type":"Civil"
+    },
+
+    {
+        "name":"YYYY",
+        "Username":"YYYY",
+        "mail":"xyz@gmail.com",
+        "Password":"YYYY",
+        "PhoneNumber":1234567890,
+        "Address":"xyz area, zzz street",
+        "Startups":null,
+        "Followers":300,
+        "Following":30,
+        "Type":"Web Designing"
+    },
+
+    {
+        "name":"ZZZZ",
+        "Username":"ZZZZ",
+        "mail":"xyz@gmail.com",
+        "Password":"ZZZZ",
+        "PhoneNumber":1234567890,
+        "Address":"xyz area, zzz street",
+        "Startups":null,
+        "Followers":250,
+        "Following":25,
+        "Type":"App Developer"
+    },
+
+    {
+        "name":"AAAA",
+        "Username":"AAAA",
+        "mail":"xyz@gmail.com",
+        "Password":"AAAA",
+        "PhoneNumber":1234567890,
+        "Address":"xyz area, zzz street",
+        "Startups":null,
+        "Followers":350,
+        "Following":20,
+        "Type":"Embedded Systems"
+    },
+
+    {
+        "name":"BBBB",
+        "Username":"BBBB",
+        "mail":"xyz@gmail.com",
+        "Password":"BBBB",
+        "PhoneNumber":1234567890,
+        "Address":"xyz area, zzz street",
+        "Startups":null,
+        "Followers":500,
+        "Following":60,
+        "Type":"Mechanical"
+    },
+
+    {
+        "name":"CCCC",
+        "Username":"CCCC",
+        "mail":"xyz@gmail.com",
+        "Password":"CCCC",
+        "PhoneNumber":1234567890,
+        "Address":"xyz area, zzz street",
+        "Startups":null,
+        "Followers":350,
+        "Following":20,
+        "Type":"Electronics"
+    }
+]
