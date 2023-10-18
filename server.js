@@ -7,7 +7,7 @@ const {connectdb} = require('./connect');
 app=express()
 
 app.get('/api/',(req,res)=>{
-    res.send("Ayush")
+    res.send("This a Sample Response")
 })
 
 connectdb()
